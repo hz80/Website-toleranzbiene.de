@@ -1,7 +1,7 @@
 ---
 title: Über mich
 permalink: /about/
-layout: single
+layout: splash
 sidebar:
   nav: docs
 ---

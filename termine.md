@@ -1,6 +1,6 @@
 ---
 title: Projekte
-permalink: /projects/
+permalink: /termine/
 layout: single
 ---
 

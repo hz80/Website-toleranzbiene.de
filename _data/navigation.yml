@@ -1,12 +1,14 @@
 main:
   - title: "Home"
     url: /
-  - title: "Blog"
-    url: /posts/
-  - title: "Über mich"
+  - title: "Verein"
+    url: /verein/
+  - title: "Über uns"
     url: /about/
-  - title: "Projekte"
-    url: /projects/
+  - title: "Termine"
+    url: /termine/
+  - title: "VR2033"
+    url: /vr2033/
 
 docs:
   - title: "Wissen"

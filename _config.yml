@@ -14,7 +14,7 @@ repository:   # optional: username/repo (für GitHub Pages)
 # Theme
 # ================================
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: sunrise
+minimal_mistakes_skin: air
 
 # Skin (farbschema)
 minimal_mistakes_skin: default
@@ -39,12 +39,9 @@ author:
   avatar: "/assets/images/avatar.png"   # optional
   logo: "/assets/images/logo.png"
   links:
-    - label: "GitHub"
+    - label: "Instagram"
       icon: "fab fa-github"
-      url: "https://github.com/USERNAME"
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://twitter.com/USERNAME"
+      url: "https://instagram.com/toleranzbiene"
 
 # ================================
 # Defaults (extrem wichtig!)
@@ -56,7 +53,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: false
       share: true
       related: true
