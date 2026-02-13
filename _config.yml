@@ -33,7 +33,7 @@ plugins:
 # Author (wichtig für Sidebar & Profile)
 # ================================
 author:
-  name: "Toleranzbiene - Varroaresistenz aus Rheinland-Pfalz"
+  name: "Varroatolerante Biene Rheinland-Pfalz e.V."
   bio: "Imkerei, Varroa-Resistenz und Biotechnik"
   location: "Deutschland"
   avatar: "/assets/images/avatar.png"   # optional
