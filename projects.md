@@ -4,7 +4,5 @@ permalink: /projects/
 layout: single
 ---
 
-## Aktuelle Projekte
+## Aktuelle Termine
 - Varroa-Resistenz
-- Bilderkennung
-- Microservices

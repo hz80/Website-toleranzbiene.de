@@ -6,4 +6,4 @@ sidebar:
   nav: docs
 ---
 
-Hier steht etwas über mich 🐝
+VT RLP e.V.🐝
