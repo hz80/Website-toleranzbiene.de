@@ -1,3 +1,81 @@
+# ================================
+# Site Settings
+# ================================
 title: Toleranzbiene.de
-source: _src
-destination: _site
+name: VT RLP
+description: >
+  Der Toleranzbegriff umfasst die unterschiedlichen Ausprägungen des Zuchtweges hin zur Varroaresistenz. Von ersten Anzeichen einer Idee gegen die Varroa im Bienenvolk bis hin zur Varroaresistenz, bei der auf alle Behandlung verzichtet werden kann, ist ein entsprechend langer Weg. Der Herausforderung haben wir uns als Varroatolerante Biene Rheinland-Pfalz e. V. gestellt.
+url: ""        # z.B. https://example.com (leer für lokal)
+baseurl: ""    # z.B. /blog
+repository:    # optional: username/repo (für GitHub Pages)
+
+# ================================
+# Theme
+# ================================
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: sunrise
+
+# Skin (farbschema)
+minimal_mistakes_skin: default
+# Alternativen: dark, air, aqua, contrast, neon, mint, sunrise
+
+# ================================
+# Plugins
+# ================================
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# ================================
+# Author (wichtig für Sidebar & Profile)
+# ================================
+author:
+  name: "Hubi"
+  avatar: "/assets/images/avatar.png"   # optional
+  bio: "Imker, Entwickler, Bastler 🐝"
+  location: "Germany"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/USERNAME"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/USERNAME"
+
+# ================================
+# Defaults (extrem wichtig!)
+# ================================
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+# ================================
+# Markdown / Build
+# ================================
+markdown: kramdown
+highlighter: rouge
+
+# ================================
+# Excludes
+# ================================
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
