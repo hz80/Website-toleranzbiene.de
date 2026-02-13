@@ -33,10 +33,11 @@ plugins:
 # Author (wichtig für Sidebar & Profile)
 # ================================
 author:
-  name: "Hubi"
+  name: "Toleranzbiene - Varroaresistenz aus Rheinland-Pfalz"
+  bio: "Imkerei, Varroa-Resistenz und Biotechnik"
+  location: "Deutschland"
   avatar: "/assets/images/avatar.png"   # optional
-  bio: "Imker, Entwickler, Bastler 🐝"
-  location: "Germany"
+  logo: "/assets/images/logo.png"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
