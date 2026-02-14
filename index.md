@@ -7,6 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: 0
   overlay_image: /assets/images/header.png
+  overlay_image: https://images.unsplash.com/photo-1583673354352-9504815ae8e9?auto=format&fit=crop&w=1920&q=80
   actions:
     - label: "Mitglied werden"
       url: /join/
