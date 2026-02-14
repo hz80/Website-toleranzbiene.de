@@ -1,3 +1,5 @@
 .site-logo img {
-  max-height: 70px !important;
+  max-height: 60px;      /* Höhe anpassen nach Wunsch */
+  width: auto;           /* Breite automatisch proportional */
+  display: block;        /* sicherstellen, dass es sichtbar ist */
 }
