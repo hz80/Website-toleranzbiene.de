@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: "TOLERANZBIENE.de"
+logo: "/assets/images/logo.svg"
 excerpt: "Resiliente Bienen aus Rheinland-Pfalz "
 
 header:
