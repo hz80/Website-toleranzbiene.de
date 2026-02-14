@@ -5,4 +5,4 @@ layout: single
 ---
 
 ## Aktuelle Termine
-- Varroa-Resistenz
+- 50 Jahre Buckfast - Kassel - 7-8.März 2025
