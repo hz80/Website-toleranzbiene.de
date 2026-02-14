@@ -16,6 +16,7 @@ Die Einbindung von Imkervereinen oder interessierten Gruppen zur Verbreitung der
 
 Über diesen weg stehen wir mit vielen Imkerinnen und Imkern in Kontakt und ermutigen diese, sich intensiver mit der Thematik Zucht auseinanderzusetzen und für ihren eigenen Betrieb oder Verein z.B. die Prinzipien der Basiszucht, basierend auf der Genetik die sie von uns erhalten haben, anzuwenden. Über diesen Wege erreichen wir zum einen eine schnellere Etablierung varroatoleranter Bienenpopulationen, zum anderen schnell sichtbare und messbare Ergebnisse bei den Imkerinnen und Imkern. 
 
+[![Toleranzbiene RLP - Unser Schema](/assets/images/pyramide_1.png)](/assets/images/pyramide_1.png)
 
 ### Behandlungsfreie Imkerei
 
