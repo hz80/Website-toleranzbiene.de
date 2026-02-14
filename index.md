@@ -12,7 +12,7 @@ header:
       url: /join/
 
 feature_row:
-  - image_path: /assets/images/feature_imkerdoku.pnga
+  - image_path: /assets/images/logo.svg
     alt: "TOLERANZ"
     title: "TOLERANZ"
     excerpt: "Der Toleranzbegriff umfasst die unterschiedlichen Ausprägungen des Zuchtweges hin zur Varroaresistenz. Von ersten Anzeichen einer Idee gegen die Varroa im Bienenvolk bis hin zur Varroaresistenz, bei der auf alle Behandlung verzichtet werden kann, ist ein entsprechend langer Weg. Der Herausforderung haben wir uns als Varroatolerante Biene Rheinland-Pfalz e. V. gestellt."
