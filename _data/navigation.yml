@@ -11,7 +11,7 @@ main:
     url: /vr2033/
 
 docs:
-  - title: "Wissen"
+  - title: "Weiters Menü..."
     children:
       - title: "Biotechnik"
         url: /biotechnik/
