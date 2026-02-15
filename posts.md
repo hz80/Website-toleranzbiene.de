@@ -1,4 +1,5 @@
 ---
 layout: home
-author_profile: true
+title: "Aktuelles"
+author_profile: false
 ---
