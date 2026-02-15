@@ -1,0 +1,65 @@
+---
+---
+
+/* ===== Farb-Overrides (GANZ OBEN!) ===== */
+
+$primary-color: #69732F;
+$link-color: #69732F;
+
+$background-color: #EBEBEB;
+$text-color: #525252;
+
+$muted-text-color: lighten(#525252, 20%);
+$border-color: lighten(#525252, 40%);
+
+$footer-background-color: #525252;
+$footer-text-color: #EBEBEB;
+
+
+/* ===== Theme laden ===== */
+@import "minimal-mistakes";
+
+
+/* ===== Dein eigenes CSS DANACH ===== */
+
+.site-logo img {
+   max-height: 12rem;
+}
+
+.archive__item {
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.archive__item-title {
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+
+.archive__item-excerpt {
+  color: #555;
+  font-size: 1rem;
+}
+
+.page__hero-caption {
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+
+.masthead {
+  background-color: #525252;
+}
+
+.masthead a {
+  color: #EBEBEB;
+}
+
+.btn {
+  background-color: #69732F;
+  color: #ffffff;
+}
+
+.btn:hover {
+  background-color: darken(#69732F, 10%);
+}
