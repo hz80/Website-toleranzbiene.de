@@ -15,9 +15,9 @@ main:
 docs:
   - title: "Weiters Menü..."
     children:
-      - title: "Aktuelles"
-        url: /posts/
       - title: "Termine"
         url: /termine/
+      - title: "Ansprechpartner"
+        url: /kontakte/
       - title: "VR 2033"
         url: /vr2033/
