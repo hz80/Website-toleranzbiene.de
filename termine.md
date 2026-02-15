@@ -2,6 +2,8 @@
 title: Projekte
 permalink: /termine/
 layout: single
+sidebar:
+  nav: docs
 ---
 
 ## Aktuelle Termine
