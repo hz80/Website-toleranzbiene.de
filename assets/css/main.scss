@@ -63,3 +63,26 @@ $footer-text-color: #EBEBEB;
 .btn:hover {
   background-color: darken(#69732F, 10%);
 }
+
+/* ===== Navigation fix ===== */
+
+.masthead {
+  background-color: #525252;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+
+.greedy-nav a,
+.site-title,
+.masthead a {
+  color: #EBEBEB !important;
+}
+
+.greedy-nav a:hover {
+  color: #69732F !important;
+}
+
+.greedy-nav .visible-links a:before {
+  background: #69732F;
+}
+
