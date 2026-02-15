@@ -1,11 +1,30 @@
+---
+---
 
----
----
+/* ===== Farb-Overrides (GANZ OBEN!) ===== */
+
+$primary-color: #69732F;
+$link-color: #69732F;
+
+$background-color: #EBEBEB;
+$text-color: #525252;
+
+$muted-text-color: lighten(#525252, 20%);
+$border-color: lighten(#525252, 40%);
+
+$footer-background-color: #525252;
+$footer-text-color: #EBEBEB;
+
+
+/* ===== Theme laden ===== */
+@import "minimal-mistakes";
+
+
+/* ===== Dein eigenes CSS DANACH ===== */
 
 .site-logo img {
-   max-height:12rem      /* sicherstellen, dass es sichtbar ist */
+   max-height: 12rem;
 }
-
 
 .archive__item {
   margin-bottom: 3rem;
@@ -28,21 +47,6 @@
   opacity: 0.9;
 }
 
-
-/* ===== Farb-Overrides ===== */
-
-$primary-color: #69732F;        // Olivgrün
-$link-color: #69732F;
-
-$background-color: #EBEBEB;     // Hellgrau
-$text-color: #525252;           // Dunkelgrau
-
-$muted-text-color: lighten(#525252, 20%);
-$border-color: lighten(#525252, 40%);
-
-$footer-background-color: #525252;
-$footer-text-color: #EBEBEB;
-
 .masthead {
   background-color: #525252;
 }
@@ -59,8 +63,3 @@ $footer-text-color: #EBEBEB;
 .btn:hover {
   background-color: darken(#69732F, 10%);
 }
-
-
-/* ===== Theme laden ===== */
-@import "minimal-mistakes";
-
