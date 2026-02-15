@@ -5,6 +5,8 @@ main:
     url: /verein/
   - title: "Über uns"
     url: /about/
+  - title: "Aktuelles"
+    url: /posts/
   - title: "Termine"
     url: /termine/
   - title: "VR2033"
