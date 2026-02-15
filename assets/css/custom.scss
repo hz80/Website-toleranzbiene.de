@@ -23,3 +23,42 @@
   font-size: 1.2rem;
   opacity: 0.9;
 }
+
+---
+---
+
+/* ===== Farb-Overrides ===== */
+
+$primary-color: #69732F;        // Olivgrün
+$link-color: #69732F;
+
+$background-color: #EBEBEB;     // Hellgrau
+$text-color: #525252;           // Dunkelgrau
+
+$muted-text-color: lighten(#525252, 20%);
+$border-color: lighten(#525252, 40%);
+
+$footer-background-color: #525252;
+$footer-text-color: #EBEBEB;
+
+.masthead {
+  background-color: #525252;
+}
+
+.masthead a {
+  color: #EBEBEB;
+}
+
+.btn {
+  background-color: #69732F;
+  color: #ffffff;
+}
+
+.btn:hover {
+  background-color: darken(#69732F, 10%);
+}
+
+
+/* ===== Theme laden ===== */
+@import "minimal-mistakes";
+
