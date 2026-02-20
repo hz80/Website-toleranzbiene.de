@@ -33,7 +33,7 @@ plugins:
 footer:
   links:
     - label: "Impressum"
-      url: "/impressum/"
+      url: "./impressum/"
 
 # ================================
 # Author (wichtig für Sidebar & Profile)
