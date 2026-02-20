@@ -30,7 +30,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
-search: true
+search: false
 
 footer:
   links:
