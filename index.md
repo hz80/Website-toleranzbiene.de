@@ -23,15 +23,15 @@ feature_row:
     alt: "TEAMWORK"
     title: "TEAMWORK"
     excerpt: "Wir sind offen für jeden Imker/in, vom Anfänger bis zum Berufsimker. Jeder, der sich von unseren Zielen angesprochen fühlt, ist herzlich willkommen. Es steht jedem frei, sich mit seiner bevorzugten Bienenrasse zu beteiligen. "
-    url: "/"
-    btn_label: "Beispiel ohne Funktion"
+    url: "/join/"
+    btn_label: "Mach mit"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/vtbrlp_feature_m.jpeg
     alt: "REGIONALITÄT"
     title: "REGIONALITÄT"
-    excerpt: "Erfahrungen zeigen, dass die Geographie, die klimatischen Bedingungen sowie das Trachtfließband vor Ort die Ausprägung verschiedenster Eigenschaften bei der Biene beeinflussen. Mit unserer Arbeit wollen wir einen Beitrag zur Sicherung einer resilienten regional angepassten Bienenpopulation leisten. Der einzigartige Mix der Landschaften und Bedingungen in Rheinland-Pfalz stellt besondere Herausforderungen an diese Zucht und Selektion."
-    url: "/regional/"
+    excerpt: "Erfahrungen zeigen, dass die Geographie, die klimatischen Bedingungen sowie das Trachtfließband vor Ort die Ausprägung verschiedenster Eigenschaften bei der Biene beeinflussen. Mit unserer Arbeit wollen wir einen Beitrag zur Sicherung einer resilienten regional angepassten Bienenpopulation leisten.
+    Der einzigartige Mix der Landschaften und Bedingungen in Rheinland-Pfalz stellt besondere Herausforderungen an diese Zucht und Selektion."
 ---
 
 
