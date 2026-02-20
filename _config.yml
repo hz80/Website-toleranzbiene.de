@@ -30,6 +30,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
+footer:
+  links:
+    - label: "Impressum"
+      url: "/impressum/"
+
 # ================================
 # Author (wichtig für Sidebar & Profile)
 # ================================
