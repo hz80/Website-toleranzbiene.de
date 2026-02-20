@@ -6,8 +6,12 @@ logo: "/assets/images/logo.svg"
 name: VT RLP
 description: >
   Der Toleranzbegriff umfasst die unterschiedlichen Ausprägungen des Zuchtweges hin zur Varroaresistenz. Von ersten Anzeichen einer Idee gegen die Varroa im Bienenvolk bis hin zur Varroaresistenz, bei der auf alle Behandlung verzichtet werden kann, ist ein entsprechend langer Weg. Der Herausforderung haben wir uns als Varroatolerante Biene Rheinland-Pfalz e. V. gestellt.
-url: "https://hz80.github.io"
-baseurl: "/Website-toleranzbiene.de"
+
+#url: "https://hz80.github.io"
+#baseurl: "/Website-toleranzbiene.de"
+
+url: "https://www.toleranzbiene.de/"
+baseurl: ""
 
 repository:   # optional: username/repo (für GitHub Pages)
 
