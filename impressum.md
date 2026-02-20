@@ -1,6 +1,6 @@
 ---
 title: Impressum
-permalink: /impressun/
+permalink: /impressum/
 layout: single
 ---
 
