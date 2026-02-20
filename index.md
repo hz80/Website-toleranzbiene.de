@@ -27,7 +27,7 @@ feature_row:
     btn_label: "Beispiel ohne Funktion"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/feature_imkerdoku.png
+  - image_path: /assets/images/vtbrlp_feature_m.jpeg
     alt: "REGIONALITÄT"
     title: "REGIONALITÄT"
     excerpt: "Erfahrungen zeigen, dass die Geographie, die klimatischen Bedingungen sowie das Trachtfließband vor Ort die Ausprägung verschiedenster Eigenschaften bei der Biene beeinflussen. Mit unserer Arbeit wollen wir einen Beitrag zur Sicherung einer resilienten regional angepassten Bienenpopulation leisten. Der einzigartige Mix der Landschaften und Bedingungen in Rheinland-Pfalz stellt besondere Herausforderungen an diese Zucht und Selektion."
