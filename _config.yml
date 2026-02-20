@@ -34,9 +34,13 @@ search: true
 
 footer:
   links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/toleranzbiene"
     - label: "Impressum"
       url: "./impressum/"
 
+      
 # ================================
 # Author (wichtig für Sidebar & Profile)
 # ================================
