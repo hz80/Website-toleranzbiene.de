@@ -75,7 +75,6 @@ defaults:
 # ================================
 markdown: kramdown
 highlighter: rouge
-
 # ================================
 # Excludes
 # ================================
@@ -84,3 +83,6 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+
+atom_feed:
+  hide: true
