@@ -30,6 +30,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
+search: true
+
 footer:
   links:
     - label: "Impressum"
