@@ -9,7 +9,7 @@ main:
     url: /posts/
 
 docs:
-  - title: "Weiters Menü..."
+  - title: "Mehr..."
     children:
       - title: "Termine"
         url: /termine/
