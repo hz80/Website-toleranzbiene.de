@@ -44,7 +44,11 @@ footer:
     - label: "Impressum"
       url: "./impressum/"
 
-      
+# Externe Links automatisch in neuem Tab öffnen
+external_links:
+  target: "_blank"
+  rel: "noopener noreferrer"
+
 # ================================
 # Author (wichtig für Sidebar & Profile)
 # ================================
