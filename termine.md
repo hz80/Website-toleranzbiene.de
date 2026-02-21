@@ -9,7 +9,7 @@ sidebar:
 ## Aktuelle Termine
 - 50 Jahre Buckfast - Kassel - 7-8.März 2026
 - <i class="fas fa-external-link-alt"></i> 
-[50 Jahre GDEB/ Züchtertagung]([https://varroaresistenzprojekt.eu](https://gdeb.eu/aktuelles/zuechtertagung-2026.html))
+[50 Jahre GDEB/ Züchtertagung](https://gdeb.eu/aktuelles/zuechtertagung-2026.html)
 
 
 ## Anstehende Termine 2026
