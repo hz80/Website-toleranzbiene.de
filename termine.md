@@ -8,6 +8,7 @@ sidebar:
 
 ## Aktuelle Termine
 - 50 Jahre Buckfast - Kassel - 7-8.März 2025
+https://gdeb.eu/aktuelles/zuechtertagung-2026.html
 
 ## Anstehende Termine 2026
 - Königinnen Zuchtkurs
