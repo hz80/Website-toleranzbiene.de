@@ -10,4 +10,9 @@ sidebar:
 Hier findest du bald deine lokalen Ansprechpartner in RLP
 
 ## Liste regionaler Ansprechpartner
-TODO!
+<i class="fas fa-external-link-alt"></i> 
+[Imkerverband RLP Prüfstände]([https://www.imkerverband-rlp.de/obleute/zucht/pruefstaende/](https://www.imkerverband-rlp.de/obleute/zucht/pruefstaende/))
+
+
+<i class="fas fa-external-link-alt"></i> 
+[Zuchtgruppe Imkerverein Dahnertal]([https://imkerverein-dahnertal.de/zucht/](https://imkerverein-dahnertal.de/zucht/))
