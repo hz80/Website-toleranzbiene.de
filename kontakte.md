@@ -7,8 +7,7 @@ sidebar:
 ---
 
 # Bau dein Netzwerk aus
-Hier findest du bald deine lokalen Ansprechpartner in RLP
-## Liste regionaler Ansprechpartner
+Hier findest du (bald mehr) deine lokalen Ansprechpartner in RLP
 
 ## Liste regionaler Ansprechpartner
 <i class="fas fa-external-link-alt"></i> 
@@ -16,3 +15,4 @@ Hier findest du bald deine lokalen Ansprechpartner in RLP
 
 <i class="fas fa-external-link-alt"></i> 
 [Zuchtgruppe Imkerverein Dahnertal](https://imkerverein-dahnertal.de/zucht/)
+
