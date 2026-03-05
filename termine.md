@@ -13,6 +13,7 @@ sidebar:
 
 
 ## Anstehende Termine 2026
+- Imkertage RLP - 26.-27. September - Neustadt
 - Königinnen Zuchtkurs
 - Besamungsaktion
 - Belegstellen
