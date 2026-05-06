@@ -1,5 +1,5 @@
 ---
-title: Projekte
+title: Termine & Events
 permalink: /termine/
 layout: single
 sidebar:
