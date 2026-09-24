@@ -3,10 +3,10 @@ layout: splash
 title: "Aktuelles"
 permalink: /posts/
 header:
-overlay_image: /assets/images/header.png
-overlay_filter: 0.35
-caption: "Neuigkeiten & Entwicklungen"
---------------------------------------
+  overlay_image: /assets/images/header.png
+  overlay_filter: 0.35
+  caption: "Neuigkeiten & Entwicklungen"
+---
 
 Willkommen im Blog der **Toleranzbiene Rheinland-Pfalz**.
 
